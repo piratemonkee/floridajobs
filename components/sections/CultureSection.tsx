@@ -9,7 +9,7 @@ const cultureValues = [
   },
   {
     title: 'Relentless Execution',
-    description: 'You&apos;re a doer who turns ideas into reality. You thrive on solving hard problems and delivering exceptional work that speaks for itself.'
+    description: 'You\u2019re a doer who turns ideas into reality. You thrive on solving hard problems and delivering exceptional work that speaks for itself.'
   },
   {
     title: 'Team-First Mindset',
@@ -17,11 +17,11 @@ const cultureValues = [
   },
   {
     title: 'Maximum Accountability',
-    description: 'You own your commitments completely. When you say you&apos;ll do something, it gets done—no excuses, no hand-holding required.'
+    description: 'You own your commitments completely. When you say you\u2019ll do something, it gets done—no excuses, no hand-holding required.'
   },
   {
     title: 'Continuous Excellence',
-    description: 'You&apos;re never satisfied with &quot;good enough.&quot; You actively seek feedback, constantly improve your craft, and push the entire team to new heights.'
+    description: 'You\u2019re never satisfied with "good enough." You actively seek feedback, constantly improve your craft, and push the entire team to new heights.'
   },
   {
     title: 'Authentic Collaboration',
@@ -40,12 +40,12 @@ export default function CultureSection() {
             </h2>
             <div className="max-w-3xl mx-auto space-y-6">
               <p className="text-lg text-primary-700 leading-relaxed">
-                We&apos;re a tight-knit team of exceptional doers who take pride in our craft and deliver results. 
-                When you join us, you&apos;re not just taking a role—you&apos;re becoming an owner who directly shapes 
+                We{'\u2019'}re a tight-knit team of exceptional doers who take pride in our craft and deliver results. 
+                When you join us, you{'\u2019'}re not just taking a role—you{'\u2019'}re becoming an owner who directly shapes 
                 what we build and how we build it.
               </p>
               <p className="text-primary-600 font-medium">
-                We&apos;re looking for teammates who embody:
+                We{'\u2019'}re looking for teammates who embody:
               </p>
             </div>
           </div>
@@ -69,7 +69,7 @@ export default function CultureSection() {
           <div className="text-center bg-white rounded-lg p-8 shadow-sm border border-primary-200">
             <p className="text-lg text-primary-700 leading-relaxed max-w-3xl mx-auto">
               If you want to be part of a team where your expertise matters, your contributions are felt immediately, 
-              and you&apos;re surrounded by people who are as committed to excellence as you are—this is your place.
+              and you{'\u2019'}re surrounded by people who are as committed to excellence as you are—this is your place.
             </p>
           </div>
         </div>
