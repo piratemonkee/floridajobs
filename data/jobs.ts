@@ -13,7 +13,7 @@ export const jobs: Job[] = [
       max: 250000,
       currency: 'USD'
     },
-    description: 'We\'re seeking a Senior Full-Stack Engineer to help scale Gondi to the next stage of growth. You\'ll own the development of critical product features, shape the architecture of our platform, and bring entrepreneurial initiative to an ambitious and fast-moving team.',
+    description: 'We&apos;re seeking a Senior Full-Stack Engineer to help scale Gondi to the next stage of growth. You&apos;ll own the development of critical product features, shape the architecture of our platform, and bring entrepreneurial initiative to an ambitious and fast-moving team.',
     requirements: [
       '5+ years full-stack engineering (No programming language required, our stack is in Next.js and Python)',
       'Strong product instincts and entrepreneurial mindset',
@@ -26,7 +26,7 @@ export const jobs: Job[] = [
       'Translate complex NFT lending and trading logic into seamless user experiences',
       'Collaborate with product, design, and protocol engineers to deliver scalable solutions',
       'Ensure high standards for security, code quality, testing, and reliability',
-      'Mentor peers and contribute to Gondi\'s engineering culture'
+      'Mentor peers and contribute to Gondi&apos;s engineering culture'
     ],
     benefits: [
       'Competitive salary and equity package',
@@ -50,7 +50,7 @@ export const jobs: Job[] = [
       max: 200000,
       currency: 'USD'
     },
-    description: 'We\'re seeking a Senior Product Designer to help shape the future onchain credit and trading. You\'ll lead design for critical product features, establish design systems that scale, and bring creative problem-solving to complex financial workflows in an ambitious and fast-moving environment.',
+    description: 'We&apos;re seeking a Senior Product Designer to help shape the future onchain credit and trading. You&apos;ll lead design for critical product features, establish design systems that scale, and bring creative problem-solving to complex financial workflows in an ambitious and fast-moving environment.',
     requirements: [
       '5+ years product design experience with a focus on complex web applications or financial products',
       'Strong portfolio demonstrating systematic thinking and polished visual design skills',
@@ -66,7 +66,7 @@ export const jobs: Job[] = [
       'Collaborate closely with engineering, product, and founder to deliver cohesive product experiences',
       'Establish and maintain design systems, patterns, and guidelines that scale across the platform',
       'Conduct user research and usability testing to validate design decisions and identify opportunities',
-      'Mentor design team members and contribute to Gondi\'s design culture and standards'
+      'Mentor design team members and contribute to Gondi&apos;s design culture and standards'
     ],
     benefits: [
       'Competitive salary and equity package',
