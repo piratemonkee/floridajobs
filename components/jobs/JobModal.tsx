@@ -118,7 +118,7 @@ export default function JobModal({ job, isOpen, onClose }: JobModalProps) {
                 {/* Responsibilities */}
                 <section>
                   <h3 className="text-lg font-semibold text-primary-900 mb-3">
-                    What you'll do
+                    What you&apos;ll do
                   </h3>
                   <ul className="space-y-2">
                     {job.responsibilities.map((responsibility, index) => (
@@ -133,7 +133,7 @@ export default function JobModal({ job, isOpen, onClose }: JobModalProps) {
                 {/* Requirements */}
                 <section>
                   <h3 className="text-lg font-semibold text-primary-900 mb-3">
-                    What we're looking for
+                    What we&apos;re looking for
                   </h3>
                   <ul className="space-y-2">
                     {job.requirements.map((requirement, index) => (
